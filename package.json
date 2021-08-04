@@ -1,0 +1,22 @@
+{
+    "name": "identificacion_facial",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "parcel src/index.html",
+        "build": "parcel build src/index.html --out-dir=public"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.5"
+    },
+    "dependencies": {
+        "babel-polyfill": "^6.26.0",
+        "face-api.js": "^0.22.2",
+        "sass": "^1.37.1",
+        "uuid": "^8.3.2"
+    }
+}
