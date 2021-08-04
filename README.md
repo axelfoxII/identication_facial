@@ -1,3 +1,3 @@
 # identication_facial
 
-Para instalar el node_module ---> npm install
+Para instalar el node_modules ---> npm install
